@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.github.cli
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, gradle, junit, kotlin, logback, picocli, picocli-junit, picocli-kotlin-application, readme, shade, yaml]
